@@ -36,7 +36,7 @@ namespace JsonCreate
                     writer.Close();
                 }
             }
-            Console.ReadLine();
+            
 
 
         }
